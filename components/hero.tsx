@@ -51,7 +51,7 @@ export function Hero() {
         }}
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: "url('/hero.jpg')",
+          backgroundImage: "url('/hero2.jpeg')",
         }}
       />
 
